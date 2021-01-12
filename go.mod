@@ -17,11 +17,11 @@ require (
 	github.com/go-playground/locales v0.13.0
 	github.com/go-playground/universal-translator v0.17.0
 	github.com/go-redis/redis v6.15.9+incompatible
-	github.com/go-sql-driver/mysql v1.5.0
+	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/gobuffalo/packr/v2 v2.8.0
 	github.com/golang/snappy v0.0.2 // indirect
 	github.com/gorilla/websocket v1.4.2
-	github.com/jinzhu/gorm v1.9.12
+	github.com/jinzhu/gorm v1.9.12 // indirect
 	github.com/jmoiron/sqlx v1.2.0 // indirect
 	github.com/juju/testing v0.0.0-20200923013621-75df6121fbb0 // indirect
 	github.com/minio/minio-go/v7 v7.0.5

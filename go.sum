@@ -375,6 +375,8 @@ github.com/pingcap/kvproto v0.0.0-20200927054727-1290113160f0 h1:yNUYt8kP/fAEhNi
 github.com/pingcap/kvproto v0.0.0-20200927054727-1290113160f0/go.mod h1:IOdRDPLyda8GX2hE/jO7gqaCV/PNFh8BZQCQZXfIOqI=
 github.com/pingcap/parser v0.0.0-20190506092653-e336082eb825 h1:U9Kdnknj4n2v76Mg7wazevZ5N9U1OIaMwSNRVLEcLX0=
 github.com/pingcap/parser v0.0.0-20190506092653-e336082eb825/go.mod h1:1FNvfp9+J0wvc4kl8eGNh7Rqrxveg15jJoWo/a0uHwA=
+github.com/pingcap/pd v1.1.0-beta h1:gCImjH2ylOfFjT+YfdmoWZMN1qvNke6tcZrkid2F6Rk=
+github.com/pingcap/pd v2.1.19+incompatible h1:N/8HOd5yptSJZ1LdBa1bcvYOH9YCetvX4cg5fsGf9+c=
 github.com/pingcap/tidb v2.0.11+incompatible h1:Shz+ry1DzQNsPk1QAejnM+5tgjbwZuzPnIER5aCjQ6c=
 github.com/pingcap/tidb v2.0.11+incompatible/go.mod h1:I8C6jrPINP2rrVunTRd7C9fRRhQrtR43S1/CL5ix/yQ=
 github.com/pingcap/tipb v0.0.0-20190428032612-535e1abaa330 h1:rRMLMjIMFulCX9sGKZ1hoov/iROMsKyC8Snc02nSukw=
